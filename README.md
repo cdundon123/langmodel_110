@@ -21,15 +21,11 @@ This project implements a language model in Python that analyzes two corpora of 
 ## Getting Started
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
-   cd langmodel_110
-   ```
-
-2. **Install Dependencies**: Ensure you have Python 3.x installed. Install any required libraries using:
-    ```bash
-    pip install -r requirements.txt
+   git clone https://github.com/cdundon123/langmodel_110.git
     ```
-    The project uses `matplotlib` for generating visualizations. Ensure it is installed via the requirements file or manually:
+
+2. **Install Dependencies**: Ensure you have Python 3.8 installed.
+    The project uses `matplotlib` for generating visualizations. Ensure it is installed to view the outputs:
     ```bash
     pip install matplotlib
     ```
