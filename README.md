@@ -42,7 +42,7 @@ This project implements a language model in Python that analyzes two corpora of 
 The data/ directory contains the following text corpora:
 - **Andersen's Fairy Tales:** Cleaned and raw versions of Hans Christian Andersen's works.
 - **Grimm's Fairy Tales:** Cleaned and raw versions of the Brothers Grimm's works.
-- **Hamiliton:** A text corpus for additional analysis
+- **Hamilton:** A text corpus for additional analysis
 - **Test Files:** Small sample files (```test1.txt```, ```test2.txt```) for debugging and testing.
 
 ## How It Works
